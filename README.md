@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ceastheday
-- 👀 I’m interested in ... making art for games, and some video project. which include : 3d modeling - texturing as well- animatipn and UI.
+- 👀 I’m interested in ... making art for games, and some small video projects. which include : 3d modeling - texturing as well- animatipn and UI.
 - 🌱 I’m currently learning ... game design
 
 <!---
