@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ceastheday
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... making art for games, and some video project. which include : 3d modeling - texturing as well- animatipn and UI.
+- 🌱 I’m currently learning ... game design
 
 <!---
 ceastheday/ceastheday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
